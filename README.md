@@ -86,4 +86,4 @@ I'm always interested in collaborations involving:
 
 **Bioinformatics · Genomics · Biomedical Ontologies · Knowledge Graphs · Data Governance · Research Informatics · Semantic Web**
 
-Feel free to explore my repositories to learn more about my work.
+Feel free to explore my repositories to learn more about my work. Or email me at: daaalghamdi@kfmc.med.sa

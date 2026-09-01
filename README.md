@@ -95,13 +95,13 @@ My work focuses on transforming complex biomedical and research data into **stru
 ![OWL](https://img.shields.io/badge/OWL-1565C0?style=flat-square)
 ![SPARQL](https://img.shields.io/badge/SPARQL-1976D2?style=flat-square)
 ![Protégé](https://img.shields.io/badge/Protégé-0288D1?style=flat-square)
-![GraphDB](https://img.shields.io/badge/GraphDB-039BE5?style=flat-square)
+
 
 ### Data & Standards
 
 ![FAIR Data](https://img.shields.io/badge/FAIR%20Data-0D47A1?style=flat-square)
 ![Metadata](https://img.shields.io/badge/Metadata-1565C0?style=flat-square)
-![Data Lineage](https://img.shields.io/badge/Data%20Lineage-1976D2?style=flat-square)
+![Data Standards](https://img.shields.io/badge/Data%20Lineage-1976D2?style=flat-square)
 ![Interoperability](https://img.shields.io/badge/Interoperability-0288D1?style=flat-square)
 ![Provenance](https://img.shields.io/badge/Provenance-039BE5?style=flat-square)
 

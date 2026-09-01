@@ -2,7 +2,7 @@
 
 <img src="./dalia-family-github.png" width="720" alt="Dalia Alghamdi - Bioinformatics, Data and Family">
 
-# 💙 Hi, I'm Dalia Alghamdi
+# 💙 Hi, I'm Dalia Alghamdi, PhD, Mommy
 
 ### 🧬 Bioinformatician · 🔷 Data Governance · 🧠 Biomedical Ontologies · 🔬 Clinical Research
 
